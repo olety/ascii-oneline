@@ -5,5 +5,5 @@ Can be used with art from sites like http://twitchascii.blogspot.com
 ### Use 
 
 1. [Install Python](https://www.python.org/downloads/)
-2. Run it in python3 - `python3 asciiChanger.py`
+2. Run it using python3 - `python3 asciiChanger.py`
 3. Enjoy!
